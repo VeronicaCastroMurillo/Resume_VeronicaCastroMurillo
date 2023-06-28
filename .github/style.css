@@ -1,94 +1,99 @@
-.d-flex{
-    display:flex;
+.d-flex {
+    display: flex;
 }
 
-body{
+body {
     border: solid 2mm black;
 }
 
-.justify-content-between{
+.justify-content-between {
     justify-content: space-between;
 }
 
-header, footer{
+header,
+footer {
     background-color: rgb(0, 0, 62);
     color: #f7f7f7;
     padding: 1rem;
     align-items: center;
 }
 
-.personal, .professional{
-  width: 70% ;  
+.personal,
+.professional {
+    width: 70%;
 }
 
-.contact, .skills{
+.contact,
+.skills {
     width: 30%;
 }
 
-.contact ul li{
+.contact ul li {
     margin: 1rem 0;
 }
 
-.soft-skills ul li{
-    margin: 1rem 0;  
+.soft-skills ul li {
+    margin: 1rem 0;
 }
 
-ul{
-list-style: none;
+ul {
+    list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
-    color:#f7f7f7;
+    color: #f7f7f7;
 }
 
-main{
+main {
     padding: 2rem
 }
 
 
-h1, h2, h3,h4,h5{
+h1,
+h2,
+h3,
+h4,
+h5 {
     margin-top: 0;
     margin-bottom: 1rem;
 }
 
-h3{
+h3 {
     font-size: 1.6rem;
 }
 
-h4{
+h4 {
     font-size: 1.4rem;
 }
 
-h5{
+h5 {
     font-size: 1.2rem;
 }
 
-p{
+p {
     font-size: 1.1rem;
     padding: 0 1rem;
 }
 
-hr{
+hr {
     width: 95%;
 }
 
-.skills{
+.skills {
     text-align: center;
 }
 
-.languages{
+.languages {
     margin: 1rem 0;
 }
 
-
-
-progress{
+progress {
     width: 200px;
     height: 20px;
 }
 
-progress  ::-ms-fill {
+progress ::-ms-fill {
     background-color: #e90d0d;
 }
 
@@ -125,9 +130,9 @@ html {
 }
 
 .fontWhite {
-    color:#f7f7f7;
+    color: #f7f7f7;
 }
 
 .fontLightBlue {
-    color:rgb(34, 88, 170);
+    color: rgb(34, 88, 170);
 }

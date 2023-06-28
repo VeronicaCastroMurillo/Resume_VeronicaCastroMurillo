@@ -91,3 +91,43 @@ progress{
 progress  ::-ms-fill {
     background-color: #e90d0d;
 }
+
+.fontTexts {
+    font-family: Calibri;
+}
+
+.noMT {
+    margin-top: 0px !important;
+}
+
+.noMB {
+    margin-bottom: 0px !important;
+}
+
+.noP {
+    padding: 0px !important;
+}
+
+.pl2em {
+    padding-left: 2em !important;
+}
+
+.dates {
+    color: gray;
+}
+
+html {
+    background-color: azure;
+}
+
+.w40 {
+    width: 40%;
+}
+
+.fontWhite {
+    color:#f7f7f7;
+}
+
+.fontLightBlue {
+    color:rgb(34, 88, 170);
+}
